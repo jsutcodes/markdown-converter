@@ -12,3 +12,6 @@
 - Things like css psudeo-classes will not work in email (no javascript enabled: i.e. :hover etc)
 - https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type 
 - 
+
+allow for options 
+i.e. render table as .table-striped or just blank table
