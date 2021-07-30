@@ -10,3 +10,5 @@
 
 ### Notes
 - Things like css psudeo-classes will not work in email (no javascript enabled: i.e. :hover etc)
+- https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type 
+- 
